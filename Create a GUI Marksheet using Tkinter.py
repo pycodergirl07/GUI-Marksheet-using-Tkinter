@@ -202,7 +202,7 @@ e2.grid(row=0, column=4)
 e3.grid(row=1, column=1) 
 
 # button to display all the calculated credit scores and sgpa 
-button1=tk.Button(master, text="submit", bg="green", command=display) 
+button1=tk.Button(master, text="submit", bg="yellow", command=display) 
 button1.grid(row=8, column=1) 
 
 
